@@ -1,0 +1,14 @@
+bower_components/
+itscozy/static/
+node_modules/
+.node-version
+python_env
+__pycache__/
+.python-version
+
+alembic.ini
+.DS_Store
+
+*.db
+*.pyc
+*.swp

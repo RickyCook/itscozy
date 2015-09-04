@@ -1,0 +1,12 @@
+{
+  "name": "itscozy",
+  "version": "0.0.1",
+  "authors": [
+    "Ricky Cook <mail@thatpanda.com>"
+  ],
+  "description": "It's actually just small",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
